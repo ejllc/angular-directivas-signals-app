@@ -9,15 +9,14 @@ import { PropertiesPageComponent } from './pages/properties-page/properties-page
 import { SideMenuComponent } from './components/side-menu/side-menu.component';
 
 
+
 @NgModule({
   declarations: [
-    
-  
     SignalsLayoutComponent,
-            CounterPageComponent,
-            UserInfoPageComponent,
-            PropertiesPageComponent,
-            SideMenuComponent
+    CounterPageComponent,
+    UserInfoPageComponent,
+    PropertiesPageComponent,
+    SideMenuComponent
   ],
   imports: [
     CommonModule,

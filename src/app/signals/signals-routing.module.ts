@@ -5,6 +5,7 @@ import { CounterPageComponent } from './pages/counter-page/counter-page.componen
 import { UserInfoPageComponent } from './pages/user-info-page/user-info-page.component';
 import { PropertiesPageComponent } from './pages/properties-page/properties-page.component';
 
+
 const routes: Routes = [
   {
     path: '',
